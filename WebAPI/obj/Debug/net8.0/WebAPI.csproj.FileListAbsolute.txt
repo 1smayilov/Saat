@@ -154,3 +154,4 @@ C:\Users\Etimad\Desktop\Saat\WebAPI\obj\Debug\net8.0\WebAPI.MvcApplicationPartsA
 C:\Users\Etimad\Desktop\Saat\WebAPI\bin\Debug\net8.0\MediatR.dll
 C:\Users\Etimad\Desktop\Saat\WebAPI\bin\Debug\net8.0\MediatR.Contracts.dll
 C:\Users\Etimad\Desktop\Saat\WebAPI\bin\Debug\net8.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Etimad\Desktop\Saat\WebAPI\obj\Debug\net8.0\WebAPI.sourcelink.json

@@ -1,6 +1,7 @@
 ﻿using Application.Repositories.Brands;
 using Application.Repositories.Categories;
 using Application.Repositories.Genders;
+using Application.Repositories.Products;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
@@ -8,6 +9,7 @@ using Persistence.Contexts;
 using Persistence.Repositories.Brands;
 using Persistence.Repositories.Categories;
 using Persistence.Repositories.Genders;
+using Persistence.Repositories.Products;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -23,8 +25,8 @@ namespace Persistence
             services.AddDbContext<SaatDbContext>(options =>
                 options.UseSqlServer(configuration.GetConnectionString("DefaultConnection")));
 
-            //services.AddScoped<IProductWriteRepository, ProductWriteRepository>();
-            //services.AddScoped<IProductReadRepository, ProductReadRepository>();
+            services.AddScoped<IProductWriteRepository, ProductWriteRepository>();
+            services.AddScoped<IProductReadRepository, ProductReadRepository>();
             services.AddScoped<IBrandWriteRepository, BrandWriteRepository>();
             services.AddScoped<IBrandReadRepository, BrandReadRepository>();
             services.AddScoped<ICategoryWriteRepository, CategoryWriteRepository>();

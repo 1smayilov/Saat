@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Application.DTOs.Gender
+namespace Application.Features.Queries.Brands.GetByIdBrand
 {
-    public class GetByIdGenderDto
+    public class GetByIdBrandQueryResponse
     {
         public int Id { get; set; }
         public string Name { get; set; }

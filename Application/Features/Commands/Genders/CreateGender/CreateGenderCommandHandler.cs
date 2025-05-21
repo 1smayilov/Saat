@@ -20,7 +20,7 @@ namespace Application.Features.Commands.Genders.CreateGender
 
         public async Task<CreateGenderCommandResponse> Handle(CreateGenderCommandRequest request, CancellationToken cancellationToken)
         {
-            var result = await _genderWriteRepository.AddAsync(new Gender()
+            await _genderWriteRepository.AddAsync(new Gender()
             {
                 Name = request.Name
             });

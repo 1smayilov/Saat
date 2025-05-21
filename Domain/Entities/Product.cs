@@ -15,10 +15,12 @@ namespace Domain.Entities
         public string Name { get; set; }
         public string Description { get; set; }
         public decimal Price { get; set; }
-        public decimal? DiscountPrice { get; set; }
+        public decimal? OldPrice { get; set; }
+        public int Stock { get; set; }
         public bool BestSeller { get; set; }
         public Gender Gender { get; set; }
         public Category Category { get; set; }
         public Brand Brand { get; set; }
+        public ICollection<ProductImage> ProductImages { get; set; }
     }
 }
