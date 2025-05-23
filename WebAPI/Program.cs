@@ -1,5 +1,7 @@
 using Persistence;
 using Application;
+using Application.Services;
+using Persistence.Services;
 
 
 var builder = WebApplication.CreateBuilder(args);

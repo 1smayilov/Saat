@@ -1,15 +1,21 @@
 ﻿using Application.Repositories.Brands;
 using Application.Repositories.Categories;
+using Application.Repositories.Colors;
 using Application.Repositories.Genders;
+using Application.Repositories.ProductImages;
 using Application.Repositories.Products;
+using Application.Services;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Persistence.Contexts;
 using Persistence.Repositories.Brands;
 using Persistence.Repositories.Categories;
+using Persistence.Repositories.Colors;
 using Persistence.Repositories.Genders;
+using Persistence.Repositories.ProductImages;
 using Persistence.Repositories.Products;
+using Persistence.Services;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -33,6 +39,15 @@ namespace Persistence
             services.AddScoped<ICategoryReadRepository, CategoryReadRepository>();
             services.AddScoped<IGenderWriteRepository, GenderWriteRepository>();
             services.AddScoped<IGenderReadRepository, GenderReadRepository>();
+            services.AddScoped<IProductImageReadRepository, ProductImageReadRepository>();
+            services.AddScoped<IProductImageWriteRepository, ProductImageWriteRepository>();
+            services.AddScoped<IColorReadRepository, ColorReadRepository>();
+            services.AddScoped<IColorWriteRepository, ColorWriteRepository>();
+
+
+
+
+            services.AddScoped<IFileService, FileService>();    
 
 
         }

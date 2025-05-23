@@ -20,6 +20,8 @@ namespace Persistence.Contexts
         public DbSet<Category> Categories { get; set; }
         public DbSet<Brand> Brands { get; set; }
         public DbSet<Product> Products { get; set; }
+        public DbSet<ProductImage> ProductImages { get; set; }
+        public DbSet<Color> Colors { get; set; }
 
 
 
@@ -37,6 +39,43 @@ namespace Persistence.Contexts
 
             return await base.SaveChangesAsync(cancellationToken);
         }
+
+        protected override void OnModelCreating(ModelBuilder modelBuilder)
+        {
+            base.OnModelCreating(modelBuilder);
+
+            // Product → Brand (Cascade) - Yalnız bunda Cascade saxlanılır
+            modelBuilder.Entity<Product>()
+                .HasOne(p => p.Brand)
+                .WithMany(b => b.Products)
+                .HasForeignKey(p => p.BrandId)
+                .OnDelete(DeleteBehavior.Cascade);
+
+            // Product → Category (Restrict)
+            modelBuilder.Entity<Product>()
+                .HasOne(p => p.Category)
+                .WithMany(c => c.Products)
+                .HasForeignKey(p => p.CategoryId)
+                .OnDelete(DeleteBehavior.Restrict);
+
+            // Product → Gender (Restrict)
+            modelBuilder.Entity<Product>()
+                .HasOne(p => p.Gender)
+                .WithMany(g => g.Products)
+                .HasForeignKey(p => p.GenderId)
+                .OnDelete(DeleteBehavior.Restrict);
+
+            // Brand → Category (Restrict)
+            modelBuilder.Entity<Brand>()
+                .HasOne(b => b.Category)
+                .WithMany(c => c.Brands)
+                .HasForeignKey(b => b.CategoryId)
+                .OnDelete(DeleteBehavior.Restrict);
+
+            // Category → Gender (Restrict)
+           
+        }
+
 
     }
 

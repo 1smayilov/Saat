@@ -24,6 +24,7 @@ namespace Application.Features.Queries.Brands.GetAllBrand
             List<GetListBrandDto> brands = await _brandReadRepository.GetAll(false).Select(b=> new GetListBrandDto()
             {
                 Id = b.Id,
+                CategoryId = b.CategoryId,
                 Name = b.Name
             }).ToListAsync();
 

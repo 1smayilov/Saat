@@ -9,6 +9,7 @@ namespace Application.Features.Commands.Brands.CreateBrand
 {
     public class CreateBrandCommandRequest : IRequest<CreateBrandCommandResponse>
     {
+        public int CategoryId { get; set; }
         public string Name { get; set; }
     }
 }

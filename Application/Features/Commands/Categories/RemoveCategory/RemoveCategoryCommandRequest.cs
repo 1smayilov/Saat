@@ -9,6 +9,7 @@ namespace Application.Features.Commands.Categories.RemoveCategory
 {
     public class RemoveCategoryCommandRequest : IRequest<RemoveCategoryCommandResponse>
     {
+        public int GenderId { get; set; }
         public int Id { get; set; }
     }
 }

@@ -22,6 +22,7 @@ namespace Application.Features.Commands.Brands.CreateBrand
         {
             await _brandWriteRepository.AddAsync(new Brand()
             {
+                CategoryId = request.CategoryId,
                 Name = request.Name
             });
             await _brandWriteRepository.SaveChangesAsync();

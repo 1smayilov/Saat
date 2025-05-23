@@ -16,7 +16,7 @@ namespace Application.Features.Commands.Products.CreateProduct
         public string Description { get; set; }
         public decimal Price { get; set; }
         public int Stock { get; set; }
-        public decimal? DiscountPrice { get; set; }
+        public decimal? OldPrice { get; set; }
         public bool BestSeller { get; set; }
     }
 }

@@ -10,6 +10,7 @@ namespace Application.Features.Commands.Brands.UpdateBrand
     public class UpdateBrandCommandRequest : IRequest<UpdateBrandCommandResponse>
     {
         public int Id { get; set; }
+        public int CategoryId { get; set; }
         public string Name { get; set; }
     }
 }

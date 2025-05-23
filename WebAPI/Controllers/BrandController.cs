@@ -49,7 +49,7 @@ namespace WebAPI.Controllers
             return Ok(response);
         }
 
-        [HttpDelete]
+        [HttpDelete("{Id}")]
         public async Task<IActionResult> RemoveBrand(RemoveBrandCommandRequest request)
         {
             var response = await _mediator.Send(request);

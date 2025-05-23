@@ -11,6 +11,8 @@ namespace Domain.Entities
     {
         public string Name { get; set; }
         public ICollection<Product> Products { get; set; }
+        public ICollection<Brand> Brands { get; set; }
+
 
     }
 }

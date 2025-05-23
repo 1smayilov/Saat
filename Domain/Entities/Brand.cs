@@ -9,15 +9,11 @@ namespace Domain.Entities
 {
     public class Brand : BaseEntity
     {
+        public int CategoryId { get; set; }
         public string Name { get; set; }
-
-        
+        public Category Category { get; set; }
         public ICollection<Product> Products { get; set; }
 
-        //public Brand(int id, string name)
-        //{
-        //    Id = id;
-        //    Name = name;
-        //}
+
     }
 }

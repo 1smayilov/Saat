@@ -30,7 +30,7 @@ namespace Application.Features.Commands.Products.CreateProduct
                 Name = request.Name,
                 Price = request.Price,
                 Stock = request.Stock,
-                OldPrice = request.DiscountPrice,
+                OldPrice = request.OldPrice,
             });
             await _productWriteRepository.SaveChangesAsync();
 

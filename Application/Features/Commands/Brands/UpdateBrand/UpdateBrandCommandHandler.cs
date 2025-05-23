@@ -24,6 +24,7 @@ namespace Application.Features.Commands.Brands.UpdateBrand
         {
             Brand brand = await _brandReadRepository.GetByIdAsync(request.Id);
             brand.Name = request.Name;
+            brand.CategoryId = request.CategoryId;
             await _brandWriteRepository.SaveChangesAsync();
             return new();
         }
