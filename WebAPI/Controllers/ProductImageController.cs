@@ -35,7 +35,7 @@ namespace WebAPI.Controllers
         }
 
         [HttpDelete("{Id}")]
-        public async Task<IActionResult> Delete([FromBody] RemoveProductImageCommandRequest request)
+        public async Task<IActionResult> Delete([FromRoute] RemoveProductImageCommandRequest request)
         {
             var response = await _mediator.Send(request);
             return Ok(response);

@@ -30,9 +30,9 @@ namespace Persistence.Contexts
             foreach (var entry in ChangeTracker.Entries<BaseEntity>()
             .Where(e => e.State == EntityState.Added || e.State == EntityState.Modified))
             {
-                entry.Entity.UpdatedDate = DateTime.UtcNow;
+                entry.Entity.UpdatedDate = DateTime.Now;
                 if (entry.State == EntityState.Added)
-                    entry.Entity.CreatedDate = DateTime.UtcNow;
+                    entry.Entity.CreatedDate = DateTime.Now;
                 else
                     entry.Property(x => x.CreatedDate).IsModified = false;
             }

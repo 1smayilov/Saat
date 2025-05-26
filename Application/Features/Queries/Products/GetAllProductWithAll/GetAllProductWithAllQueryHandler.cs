@@ -22,15 +22,13 @@ namespace Application.Features.Queries.Products.GetAllProductWithAll
         async Task<GetAllProductWithAllQueryResponse> IRequestHandler<GetAllProductWithAllQueryRequest, GetAllProductWithAllQueryResponse>.Handle(GetAllProductWithAllQueryRequest request, CancellationToken cancellationToken)
         {
            List<GetAllProductWithAllDto> products = await _productReadRepository.GetAll(false)
-                                                    .Skip(request.Page * request.Size).Take(request.Size)
-                                                    .Include(p=>p.Gender)
-                                                    .Include(p=>p.Category)
-                                                    .Include(p=>p.Brand)
-                                                    .Select(p=> new GetAllProductWithAllDto()
+                                                    .Skip(request.Page * request.Size)
+                                                    .Take(request.Size)
+                                                    .Select(p => new GetAllProductWithAllDto
                                                     {
                                                         BestSeller = p.BestSeller,
                                                         BrandId = p.BrandId,
-                                                        BrendName = p.Brand.Name,
+                                                        BrandName = p.Brand.Name,
                                                         CategoryId = p.CategoryId,
                                                         CategoryName = p.Category.Name,
                                                         Description = p.Description,
@@ -41,7 +39,11 @@ namespace Application.Features.Queries.Products.GetAllProductWithAll
                                                         OldPrice = p.OldPrice,
                                                         Price = p.Price,
                                                         Stock = p.Stock
-                                                    }).ToListAsync();
+                                                    })
+                                                    .ToListAsync();
+
+            //  Include istifadə etməyə ehtiyac yoxdur Ef avtomatik join edir
+
             return new()
             {
                 Products = products

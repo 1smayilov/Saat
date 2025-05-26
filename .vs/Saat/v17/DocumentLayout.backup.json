@@ -3,125 +3,36 @@
   "WorkspaceRootPath": "C:\\Users\\Etimad\\Desktop\\Saat\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{96294E2D-6B74-4766-B727-D2E45902A9EE}|Application\\Application.csproj|c:\\users\\etimad\\desktop\\saat\\application\\features\\commands\\products\\createproduct\\createproductcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{96294E2D-6B74-4766-B727-D2E45902A9EE}|Application\\Application.csproj|solutionrelative:application\\features\\commands\\products\\createproduct\\createproductcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{13BAA851-1F10-4F94-9A4F-0C76110FDF93}|WebAPI\\WebAPI.csproj|c:\\users\\etimad\\desktop\\saat\\webapi\\controllers\\brandcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13BAA851-1F10-4F94-9A4F-0C76110FDF93}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\controllers\\brandcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{96294E2D-6B74-4766-B727-D2E45902A9EE}|Application\\Application.csproj|c:\\users\\etimad\\desktop\\saat\\application\\features\\commands\\products\\createproduct\\createproductcommandrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{96294E2D-6B74-4766-B727-D2E45902A9EE}|Application\\Application.csproj|solutionrelative:application\\features\\commands\\products\\createproduct\\createproductcommandrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{96294E2D-6B74-4766-B727-D2E45902A9EE}|Application\\Application.csproj|c:\\users\\etimad\\desktop\\saat\\application\\features\\queries\\brands\\getbrandsbycategoryname\\getbrandsbycategorynamequeryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96294E2D-6B74-4766-B727-D2E45902A9EE}|Application\\Application.csproj|solutionrelative:application\\features\\queries\\brands\\getbrandsbycategoryname\\getbrandsbycategorynamequeryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{804CBBC5-DA14-4DA2-97A9-FECAC37931A0}|Domain\\Domain.csproj|c:\\users\\etimad\\desktop\\saat\\domain\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{804CBBC5-DA14-4DA2-97A9-FECAC37931A0}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{96294E2D-6B74-4766-B727-D2E45902A9EE}|Application\\Application.csproj|c:\\users\\etimad\\desktop\\saat\\application\\features\\queries\\brands\\getbrandsbycategoryname\\getbrandsbycategorynamequeryresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96294E2D-6B74-4766-B727-D2E45902A9EE}|Application\\Application.csproj|solutionrelative:application\\features\\queries\\brands\\getbrandsbycategoryname\\getbrandsbycategorynamequeryresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Etimad\\Desktop\\Saat\\Persistence\\Migrations\\20250523090554_mig_2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Persistence\\Migrations\\20250523090554_mig_2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{96294E2D-6B74-4766-B727-D2E45902A9EE}|Application\\Application.csproj|c:\\users\\etimad\\desktop\\saat\\application\\features\\queries\\brands\\getbrandsbycategoryname\\getbrandsbycategorynamequeryrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96294E2D-6B74-4766-B727-D2E45902A9EE}|Application\\Application.csproj|solutionrelative:application\\features\\queries\\brands\\getbrandsbycategoryname\\getbrandsbycategorynamequeryrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{96294E2D-6B74-4766-B727-D2E45902A9EE}|Application\\Application.csproj|c:\\users\\etimad\\desktop\\saat\\application\\dtos\\category\\getlistcategorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{96294E2D-6B74-4766-B727-D2E45902A9EE}|Application\\Application.csproj|solutionrelative:application\\dtos\\category\\getlistcategorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{96294E2D-6B74-4766-B727-D2E45902A9EE}|Application\\Application.csproj|c:\\users\\etimad\\desktop\\saat\\application\\features\\queries\\products\\getallnewproducts\\getallnewproductsqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96294E2D-6B74-4766-B727-D2E45902A9EE}|Application\\Application.csproj|solutionrelative:application\\features\\queries\\products\\getallnewproducts\\getallnewproductsqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{96294E2D-6B74-4766-B727-D2E45902A9EE}|Application\\Application.csproj|c:\\users\\etimad\\desktop\\saat\\application\\features\\queries\\categories\\getallcategory\\getallcategoryqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{96294E2D-6B74-4766-B727-D2E45902A9EE}|Application\\Application.csproj|solutionrelative:application\\features\\queries\\categories\\getallcategory\\getallcategoryqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{96294E2D-6B74-4766-B727-D2E45902A9EE}|Application\\Application.csproj|c:\\users\\etimad\\desktop\\saat\\application\\features\\queries\\products\\getallnewproducts\\getallnewproductsqueryrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96294E2D-6B74-4766-B727-D2E45902A9EE}|Application\\Application.csproj|solutionrelative:application\\features\\queries\\products\\getallnewproducts\\getallnewproductsqueryrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{96294E2D-6B74-4766-B727-D2E45902A9EE}|Application\\Application.csproj|c:\\users\\etimad\\desktop\\saat\\application\\features\\queries\\categories\\getallcategory\\getallcategoryqueryresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{96294E2D-6B74-4766-B727-D2E45902A9EE}|Application\\Application.csproj|solutionrelative:application\\features\\queries\\categories\\getallcategory\\getallcategoryqueryresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{96294E2D-6B74-4766-B727-D2E45902A9EE}|Application\\Application.csproj|c:\\users\\etimad\\desktop\\saat\\application\\features\\queries\\categories\\getallcategory\\getallcategoryqueryrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{96294E2D-6B74-4766-B727-D2E45902A9EE}|Application\\Application.csproj|solutionrelative:application\\features\\queries\\categories\\getallcategory\\getallcategoryqueryrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{96294E2D-6B74-4766-B727-D2E45902A9EE}|Application\\Application.csproj|c:\\users\\etimad\\desktop\\saat\\application\\features\\commands\\categories\\updatecategory\\updatecategorycommandrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{96294E2D-6B74-4766-B727-D2E45902A9EE}|Application\\Application.csproj|solutionrelative:application\\features\\commands\\categories\\updatecategory\\updatecategorycommandrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{96294E2D-6B74-4766-B727-D2E45902A9EE}|Application\\Application.csproj|c:\\users\\etimad\\desktop\\saat\\application\\features\\commands\\categories\\createcategory\\createcategorycommandrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{96294E2D-6B74-4766-B727-D2E45902A9EE}|Application\\Application.csproj|solutionrelative:application\\features\\commands\\categories\\createcategory\\createcategorycommandrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{96294E2D-6B74-4766-B727-D2E45902A9EE}|Application\\Application.csproj|c:\\users\\etimad\\desktop\\saat\\application\\features\\commands\\categories\\createcategory\\createcategorycommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{96294E2D-6B74-4766-B727-D2E45902A9EE}|Application\\Application.csproj|solutionrelative:application\\features\\commands\\categories\\createcategory\\createcategorycommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{96294E2D-6B74-4766-B727-D2E45902A9EE}|Application\\Application.csproj|c:\\users\\etimad\\desktop\\saat\\application\\features\\commands\\categories\\updatecategory\\updatecategorycommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{96294E2D-6B74-4766-B727-D2E45902A9EE}|Application\\Application.csproj|solutionrelative:application\\features\\commands\\categories\\updatecategory\\updatecategorycommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{804CBBC5-DA14-4DA2-97A9-FECAC37931A0}|Domain\\Domain.csproj|c:\\users\\etimad\\desktop\\saat\\domain\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{804CBBC5-DA14-4DA2-97A9-FECAC37931A0}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{804CBBC5-DA14-4DA2-97A9-FECAC37931A0}|Domain\\Domain.csproj|c:\\users\\etimad\\desktop\\saat\\domain\\entities\\gender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{804CBBC5-DA14-4DA2-97A9-FECAC37931A0}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\gender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{57D72592-7AEF-4A54-86D1-B72D448CF5AB}|Persistence\\Persistence.csproj|c:\\users\\etimad\\desktop\\saat\\persistence\\contexts\\saatdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{57D72592-7AEF-4A54-86D1-B72D448CF5AB}|Persistence\\Persistence.csproj|solutionrelative:persistence\\contexts\\saatdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{96294E2D-6B74-4766-B727-D2E45902A9EE}|Application\\Application.csproj|c:\\users\\etimad\\desktop\\saat\\application\\features\\queries\\brands\\getallbrand\\getallbrandqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{96294E2D-6B74-4766-B727-D2E45902A9EE}|Application\\Application.csproj|solutionrelative:application\\features\\queries\\brands\\getallbrand\\getallbrandqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{96294E2D-6B74-4766-B727-D2E45902A9EE}|Application\\Application.csproj|c:\\users\\etimad\\desktop\\saat\\application\\dtos\\brand\\getbrandsbycategoryname.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96294E2D-6B74-4766-B727-D2E45902A9EE}|Application\\Application.csproj|solutionrelative:application\\dtos\\brand\\getbrandsbycategoryname.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{96294E2D-6B74-4766-B727-D2E45902A9EE}|Application\\Application.csproj|c:\\users\\etimad\\desktop\\saat\\application\\dtos\\brand\\getlistbranddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{96294E2D-6B74-4766-B727-D2E45902A9EE}|Application\\Application.csproj|solutionrelative:application\\dtos\\brand\\getlistbranddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{96294E2D-6B74-4766-B727-D2E45902A9EE}|Application\\Application.csproj|c:\\users\\etimad\\desktop\\saat\\application\\features\\commands\\brands\\updatebrand\\updatebrandcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{96294E2D-6B74-4766-B727-D2E45902A9EE}|Application\\Application.csproj|solutionrelative:application\\features\\commands\\brands\\updatebrand\\updatebrandcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{96294E2D-6B74-4766-B727-D2E45902A9EE}|Application\\Application.csproj|c:\\users\\etimad\\desktop\\saat\\application\\features\\commands\\brands\\updatebrand\\updatebrandcommandrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{96294E2D-6B74-4766-B727-D2E45902A9EE}|Application\\Application.csproj|solutionrelative:application\\features\\commands\\brands\\updatebrand\\updatebrandcommandrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{96294E2D-6B74-4766-B727-D2E45902A9EE}|Application\\Application.csproj|c:\\users\\etimad\\desktop\\saat\\application\\features\\commands\\brands\\createbrand\\createbrandcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{96294E2D-6B74-4766-B727-D2E45902A9EE}|Application\\Application.csproj|solutionrelative:application\\features\\commands\\brands\\createbrand\\createbrandcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{96294E2D-6B74-4766-B727-D2E45902A9EE}|Application\\Application.csproj|c:\\users\\etimad\\desktop\\saat\\application\\features\\commands\\brands\\createbrand\\createbrandcommandrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{96294E2D-6B74-4766-B727-D2E45902A9EE}|Application\\Application.csproj|solutionrelative:application\\features\\commands\\brands\\createbrand\\createbrandcommandrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{96294E2D-6B74-4766-B727-D2E45902A9EE}|Application\\Application.csproj|c:\\users\\etimad\\desktop\\saat\\application\\features\\queries\\categories\\getbyidcategory\\getbyidcategoryqueryrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{96294E2D-6B74-4766-B727-D2E45902A9EE}|Application\\Application.csproj|solutionrelative:application\\features\\queries\\categories\\getbyidcategory\\getbyidcategoryqueryrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{96294E2D-6B74-4766-B727-D2E45902A9EE}|Application\\Application.csproj|c:\\users\\etimad\\desktop\\saat\\application\\features\\queries\\categories\\getbyidcategory\\getbyidcategoryqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{96294E2D-6B74-4766-B727-D2E45902A9EE}|Application\\Application.csproj|solutionrelative:application\\features\\queries\\categories\\getbyidcategory\\getbyidcategoryqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{96294E2D-6B74-4766-B727-D2E45902A9EE}|Application\\Application.csproj|c:\\users\\etimad\\desktop\\saat\\application\\features\\commands\\categories\\removecategory\\removecategorycommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{96294E2D-6B74-4766-B727-D2E45902A9EE}|Application\\Application.csproj|solutionrelative:application\\features\\commands\\categories\\removecategory\\removecategorycommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{96294E2D-6B74-4766-B727-D2E45902A9EE}|Application\\Application.csproj|c:\\users\\etimad\\desktop\\saat\\application\\features\\commands\\categories\\removecategory\\removecategorycommandresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{96294E2D-6B74-4766-B727-D2E45902A9EE}|Application\\Application.csproj|solutionrelative:application\\features\\commands\\categories\\removecategory\\removecategorycommandresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{96294E2D-6B74-4766-B727-D2E45902A9EE}|Application\\Application.csproj|c:\\users\\etimad\\desktop\\saat\\application\\features\\commands\\categories\\removecategory\\removecategorycommandrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{96294E2D-6B74-4766-B727-D2E45902A9EE}|Application\\Application.csproj|solutionrelative:application\\features\\commands\\categories\\removecategory\\removecategorycommandrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{96294E2D-6B74-4766-B727-D2E45902A9EE}|Application\\Application.csproj|c:\\users\\etimad\\desktop\\saat\\application\\features\\commands\\categories\\createcategory\\createcategorycommandresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{96294E2D-6B74-4766-B727-D2E45902A9EE}|Application\\Application.csproj|solutionrelative:application\\features\\commands\\categories\\createcategory\\createcategorycommandresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{96294E2D-6B74-4766-B727-D2E45902A9EE}|Application\\Application.csproj|c:\\users\\etimad\\desktop\\saat\\application\\features\\commands\\brands\\createbrand\\createbrandcommandresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{96294E2D-6B74-4766-B727-D2E45902A9EE}|Application\\Application.csproj|solutionrelative:application\\features\\commands\\brands\\createbrand\\createbrandcommandresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/DESKTOP_KD7J5GA/Saat/True/SqlTable/dbo.Categories.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/DESKTOP_KD7J5GA/Saat/True/SqlTable/dbo.Products.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/DESKTOP_KD7J5GA/Saat/True/SqlTable/dbo.Brands.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
     }
   ],
   "DocumentGroupContainers": [
@@ -131,7 +42,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -139,397 +50,102 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "CreateProductCommandRequest.cs",
-              "DocumentMoniker": "C:\\Users\\Etimad\\Desktop\\Saat\\Application\\Features\\Commands\\Products\\CreateProduct\\CreateProductCommandRequest.cs",
-              "RelativeDocumentMoniker": "Application\\Features\\Commands\\Products\\CreateProduct\\CreateProductCommandRequest.cs",
-              "ToolTip": "C:\\Users\\Etimad\\Desktop\\Saat\\Application\\Features\\Commands\\Products\\CreateProduct\\CreateProductCommandRequest.cs",
-              "RelativeToolTip": "Application\\Features\\Commands\\Products\\CreateProduct\\CreateProductCommandRequest.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-23T09:12:15.922Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "CreateProductCommandHandler.cs",
-              "DocumentMoniker": "C:\\Users\\Etimad\\Desktop\\Saat\\Application\\Features\\Commands\\Products\\CreateProduct\\CreateProductCommandHandler.cs",
-              "RelativeDocumentMoniker": "Application\\Features\\Commands\\Products\\CreateProduct\\CreateProductCommandHandler.cs",
-              "ToolTip": "C:\\Users\\Etimad\\Desktop\\Saat\\Application\\Features\\Commands\\Products\\CreateProduct\\CreateProductCommandHandler.cs*",
-              "RelativeToolTip": "Application\\Features\\Commands\\Products\\CreateProduct\\CreateProductCommandHandler.cs*",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAB4AAAAgAAAAAAAAAA==",
+              "Title": "BrandController.cs",
+              "DocumentMoniker": "C:\\Users\\Etimad\\Desktop\\Saat\\WebAPI\\Controllers\\BrandController.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Controllers\\BrandController.cs",
+              "ToolTip": "C:\\Users\\Etimad\\Desktop\\Saat\\WebAPI\\Controllers\\BrandController.cs*",
+              "RelativeToolTip": "WebAPI\\Controllers\\BrandController.cs*",
+              "ViewState": "AgIAABEAAAAAODMzMzPjvx8AAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-23T09:12:04.59Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "20250523090554_mig_2.cs",
-              "DocumentMoniker": "C:\\Users\\Etimad\\Desktop\\Saat\\Persistence\\Migrations\\20250523090554_mig_2.cs",
-              "RelativeDocumentMoniker": "Persistence\\Migrations\\20250523090554_mig_2.cs",
-              "ToolTip": "C:\\Users\\Etimad\\Desktop\\Saat\\Persistence\\Migrations\\20250523090554_mig_2.cs",
-              "RelativeToolTip": "Persistence\\Migrations\\20250523090554_mig_2.cs",
-              "ViewState": "AgIAABwAAAAAzczMzMwUwCoAAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-23T09:05:54.258Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "GetAllCategoryQueryRequest.cs",
-              "DocumentMoniker": "C:\\Users\\Etimad\\Desktop\\Saat\\Application\\Features\\Queries\\Categories\\GetAllCategory\\GetAllCategoryQueryRequest.cs",
-              "RelativeDocumentMoniker": "Application\\Features\\Queries\\Categories\\GetAllCategory\\GetAllCategoryQueryRequest.cs",
-              "ToolTip": "C:\\Users\\Etimad\\Desktop\\Saat\\Application\\Features\\Queries\\Categories\\GetAllCategory\\GetAllCategoryQueryRequest.cs",
-              "RelativeToolTip": "Application\\Features\\Queries\\Categories\\GetAllCategory\\GetAllCategoryQueryRequest.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-23T08:53:10.554Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "GetAllCategoryQueryResponse.cs",
-              "DocumentMoniker": "C:\\Users\\Etimad\\Desktop\\Saat\\Application\\Features\\Queries\\Categories\\GetAllCategory\\GetAllCategoryQueryResponse.cs",
-              "RelativeDocumentMoniker": "Application\\Features\\Queries\\Categories\\GetAllCategory\\GetAllCategoryQueryResponse.cs",
-              "ToolTip": "C:\\Users\\Etimad\\Desktop\\Saat\\Application\\Features\\Queries\\Categories\\GetAllCategory\\GetAllCategoryQueryResponse.cs",
-              "RelativeToolTip": "Application\\Features\\Queries\\Categories\\GetAllCategory\\GetAllCategoryQueryResponse.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-23T08:53:12.356Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "GetAllCategoryQueryHandler.cs",
-              "DocumentMoniker": "C:\\Users\\Etimad\\Desktop\\Saat\\Application\\Features\\Queries\\Categories\\GetAllCategory\\GetAllCategoryQueryHandler.cs",
-              "RelativeDocumentMoniker": "Application\\Features\\Queries\\Categories\\GetAllCategory\\GetAllCategoryQueryHandler.cs",
-              "ToolTip": "C:\\Users\\Etimad\\Desktop\\Saat\\Application\\Features\\Queries\\Categories\\GetAllCategory\\GetAllCategoryQueryHandler.cs",
-              "RelativeToolTip": "Application\\Features\\Queries\\Categories\\GetAllCategory\\GetAllCategoryQueryHandler.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAkwBsAAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-23T08:53:40.493Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Product.cs",
-              "DocumentMoniker": "C:\\Users\\Etimad\\Desktop\\Saat\\Domain\\Entities\\Product.cs",
-              "RelativeDocumentMoniker": "Domain\\Entities\\Product.cs",
-              "ToolTip": "C:\\Users\\Etimad\\Desktop\\Saat\\Domain\\Entities\\Product.cs",
-              "RelativeToolTip": "Domain\\Entities\\Product.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-23T09:05:06.223Z",
+              "WhenOpened": "2025-05-26T09:52:01.269Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "GetListCategoryDto.cs",
-              "DocumentMoniker": "C:\\Users\\Etimad\\Desktop\\Saat\\Application\\DTOs\\Category\\GetListCategoryDto.cs",
-              "RelativeDocumentMoniker": "Application\\DTOs\\Category\\GetListCategoryDto.cs",
-              "ToolTip": "C:\\Users\\Etimad\\Desktop\\Saat\\Application\\DTOs\\Category\\GetListCategoryDto.cs",
-              "RelativeToolTip": "Application\\DTOs\\Category\\GetListCategoryDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAoAAAAAAAAAA==",
+              "Title": "GetAllNewProductsQueryHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Etimad\\Desktop\\Saat\\Application\\Features\\Queries\\Products\\GetAllNewProducts\\GetAllNewProductsQueryHandler.cs",
+              "RelativeDocumentMoniker": "Application\\Features\\Queries\\Products\\GetAllNewProducts\\GetAllNewProductsQueryHandler.cs",
+              "ToolTip": "C:\\Users\\Etimad\\Desktop\\Saat\\Application\\Features\\Queries\\Products\\GetAllNewProducts\\GetAllNewProductsQueryHandler.cs",
+              "RelativeToolTip": "Application\\Features\\Queries\\Products\\GetAllNewProducts\\GetAllNewProductsQueryHandler.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-23T08:53:18.141Z",
+              "WhenOpened": "2025-05-26T09:43:09.204Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GetBrandsByCategoryNameQueryHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Etimad\\Desktop\\Saat\\Application\\Features\\Queries\\Brands\\GetBrandsByCategoryName\\GetBrandsByCategoryNameQueryHandler.cs",
+              "RelativeDocumentMoniker": "Application\\Features\\Queries\\Brands\\GetBrandsByCategoryName\\GetBrandsByCategoryNameQueryHandler.cs",
+              "ToolTip": "C:\\Users\\Etimad\\Desktop\\Saat\\Application\\Features\\Queries\\Brands\\GetBrandsByCategoryName\\GetBrandsByCategoryNameQueryHandler.cs",
+              "RelativeToolTip": "Application\\Features\\Queries\\Brands\\GetBrandsByCategoryName\\GetBrandsByCategoryNameQueryHandler.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAQwBUAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T09:39:35.172Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "UpdateCategoryCommandRequest.cs",
-              "DocumentMoniker": "C:\\Users\\Etimad\\Desktop\\Saat\\Application\\Features\\Commands\\Categories\\UpdateCategory\\UpdateCategoryCommandRequest.cs",
-              "RelativeDocumentMoniker": "Application\\Features\\Commands\\Categories\\UpdateCategory\\UpdateCategoryCommandRequest.cs",
-              "ToolTip": "C:\\Users\\Etimad\\Desktop\\Saat\\Application\\Features\\Commands\\Categories\\UpdateCategory\\UpdateCategoryCommandRequest.cs",
-              "RelativeToolTip": "Application\\Features\\Commands\\Categories\\UpdateCategory\\UpdateCategoryCommandRequest.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAoAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "GetBrandsByCategoryNameQueryResponse.cs",
+              "DocumentMoniker": "C:\\Users\\Etimad\\Desktop\\Saat\\Application\\Features\\Queries\\Brands\\GetBrandsByCategoryName\\GetBrandsByCategoryNameQueryResponse.cs",
+              "RelativeDocumentMoniker": "Application\\Features\\Queries\\Brands\\GetBrandsByCategoryName\\GetBrandsByCategoryNameQueryResponse.cs",
+              "ToolTip": "C:\\Users\\Etimad\\Desktop\\Saat\\Application\\Features\\Queries\\Brands\\GetBrandsByCategoryName\\GetBrandsByCategoryNameQueryResponse.cs",
+              "RelativeToolTip": "Application\\Features\\Queries\\Brands\\GetBrandsByCategoryName\\GetBrandsByCategoryNameQueryResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA6AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-23T08:52:11.836Z",
+              "WhenOpened": "2025-05-26T09:39:29.346Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "CreateCategoryCommandRequest.cs",
-              "DocumentMoniker": "C:\\Users\\Etimad\\Desktop\\Saat\\Application\\Features\\Commands\\Categories\\CreateCategory\\CreateCategoryCommandRequest.cs",
-              "RelativeDocumentMoniker": "Application\\Features\\Commands\\Categories\\CreateCategory\\CreateCategoryCommandRequest.cs",
-              "ToolTip": "C:\\Users\\Etimad\\Desktop\\Saat\\Application\\Features\\Commands\\Categories\\CreateCategory\\CreateCategoryCommandRequest.cs",
-              "RelativeToolTip": "Application\\Features\\Commands\\Categories\\CreateCategory\\CreateCategoryCommandRequest.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAbAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "GetBrandsByCategoryNameQueryRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Etimad\\Desktop\\Saat\\Application\\Features\\Queries\\Brands\\GetBrandsByCategoryName\\GetBrandsByCategoryNameQueryRequest.cs",
+              "RelativeDocumentMoniker": "Application\\Features\\Queries\\Brands\\GetBrandsByCategoryName\\GetBrandsByCategoryNameQueryRequest.cs",
+              "ToolTip": "C:\\Users\\Etimad\\Desktop\\Saat\\Application\\Features\\Queries\\Brands\\GetBrandsByCategoryName\\GetBrandsByCategoryNameQueryRequest.cs",
+              "RelativeToolTip": "Application\\Features\\Queries\\Brands\\GetBrandsByCategoryName\\GetBrandsByCategoryNameQueryRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-23T08:49:30.091Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-26T09:39:21.319Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "CreateCategoryCommandHandler.cs",
-              "DocumentMoniker": "C:\\Users\\Etimad\\Desktop\\Saat\\Application\\Features\\Commands\\Categories\\CreateCategory\\CreateCategoryCommandHandler.cs",
-              "RelativeDocumentMoniker": "Application\\Features\\Commands\\Categories\\CreateCategory\\CreateCategoryCommandHandler.cs",
-              "ToolTip": "C:\\Users\\Etimad\\Desktop\\Saat\\Application\\Features\\Commands\\Categories\\CreateCategory\\CreateCategoryCommandHandler.cs",
-              "RelativeToolTip": "Application\\Features\\Commands\\Categories\\CreateCategory\\CreateCategoryCommandHandler.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAkwBgAAAAQAAAAAAAAAA==",
+              "DocumentIndex": 5,
+              "Title": "GetAllNewProductsQueryRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Etimad\\Desktop\\Saat\\Application\\Features\\Queries\\Products\\GetAllNewProducts\\GetAllNewProductsQueryRequest.cs",
+              "RelativeDocumentMoniker": "Application\\Features\\Queries\\Products\\GetAllNewProducts\\GetAllNewProductsQueryRequest.cs",
+              "ToolTip": "C:\\Users\\Etimad\\Desktop\\Saat\\Application\\Features\\Queries\\Products\\GetAllNewProducts\\GetAllNewProductsQueryRequest.cs",
+              "RelativeToolTip": "Application\\Features\\Queries\\Products\\GetAllNewProducts\\GetAllNewProductsQueryRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-23T08:49:29.182Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-26T09:43:12.794Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "UpdateCategoryCommandHandler.cs",
-              "DocumentMoniker": "C:\\Users\\Etimad\\Desktop\\Saat\\Application\\Features\\Commands\\Categories\\UpdateCategory\\UpdateCategoryCommandHandler.cs",
-              "RelativeDocumentMoniker": "Application\\Features\\Commands\\Categories\\UpdateCategory\\UpdateCategoryCommandHandler.cs",
-              "ToolTip": "C:\\Users\\Etimad\\Desktop\\Saat\\Application\\Features\\Commands\\Categories\\UpdateCategory\\UpdateCategoryCommandHandler.cs",
-              "RelativeToolTip": "Application\\Features\\Commands\\Categories\\UpdateCategory\\UpdateCategoryCommandHandler.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAkwBoAAAAxAAAAAAAAAA==",
+              "DocumentIndex": 6,
+              "Title": "GetBrandsByCategoryName.cs",
+              "DocumentMoniker": "C:\\Users\\Etimad\\Desktop\\Saat\\Application\\DTOs\\Brand\\GetBrandsByCategoryName.cs",
+              "RelativeDocumentMoniker": "Application\\DTOs\\Brand\\GetBrandsByCategoryName.cs",
+              "ToolTip": "C:\\Users\\Etimad\\Desktop\\Saat\\Application\\DTOs\\Brand\\GetBrandsByCategoryName.cs",
+              "RelativeToolTip": "Application\\DTOs\\Brand\\GetBrandsByCategoryName.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-23T08:52:10.96Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-26T09:41:13.733Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Category.cs",
-              "DocumentMoniker": "C:\\Users\\Etimad\\Desktop\\Saat\\Domain\\Entities\\Category.cs",
-              "RelativeDocumentMoniker": "Domain\\Entities\\Category.cs",
-              "ToolTip": "C:\\Users\\Etimad\\Desktop\\Saat\\Domain\\Entities\\Category.cs",
-              "RelativeToolTip": "Domain\\Entities\\Category.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-23T09:04:14.142Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "Gender.cs",
-              "DocumentMoniker": "C:\\Users\\Etimad\\Desktop\\Saat\\Domain\\Entities\\Gender.cs",
-              "RelativeDocumentMoniker": "Domain\\Entities\\Gender.cs",
-              "ToolTip": "C:\\Users\\Etimad\\Desktop\\Saat\\Domain\\Entities\\Gender.cs",
-              "RelativeToolTip": "Domain\\Entities\\Gender.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA6AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-23T09:04:06.892Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "SaatDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\Etimad\\Desktop\\Saat\\Persistence\\Contexts\\SaatDbContext.cs",
-              "RelativeDocumentMoniker": "Persistence\\Contexts\\SaatDbContext.cs",
-              "ToolTip": "C:\\Users\\Etimad\\Desktop\\Saat\\Persistence\\Contexts\\SaatDbContext.cs",
-              "RelativeToolTip": "Persistence\\Contexts\\SaatDbContext.cs",
-              "ViewState": "AgIAADQAAAAAAQAAAAAYwEsAAAALAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-23T09:03:26.352Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "GetAllBrandQueryHandler.cs",
-              "DocumentMoniker": "C:\\Users\\Etimad\\Desktop\\Saat\\Application\\Features\\Queries\\Brands\\GetAllBrand\\GetAllBrandQueryHandler.cs",
-              "RelativeDocumentMoniker": "Application\\Features\\Queries\\Brands\\GetAllBrand\\GetAllBrandQueryHandler.cs",
-              "ToolTip": "C:\\Users\\Etimad\\Desktop\\Saat\\Application\\Features\\Queries\\Brands\\GetAllBrand\\GetAllBrandQueryHandler.cs",
-              "RelativeToolTip": "Application\\Features\\Queries\\Brands\\GetAllBrand\\GetAllBrandQueryHandler.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABUAAABbAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-23T08:57:24.536Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 7,
               "Title": "GetListBrandDto.cs",
               "DocumentMoniker": "C:\\Users\\Etimad\\Desktop\\Saat\\Application\\DTOs\\Brand\\GetListBrandDto.cs",
               "RelativeDocumentMoniker": "Application\\DTOs\\Brand\\GetListBrandDto.cs",
               "ToolTip": "C:\\Users\\Etimad\\Desktop\\Saat\\Application\\DTOs\\Brand\\GetListBrandDto.cs",
               "RelativeToolTip": "Application\\DTOs\\Brand\\GetListBrandDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-23T08:57:18.857Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "UpdateBrandCommandHandler.cs",
-              "DocumentMoniker": "C:\\Users\\Etimad\\Desktop\\Saat\\Application\\Features\\Commands\\Brands\\UpdateBrand\\UpdateBrandCommandHandler.cs",
-              "RelativeDocumentMoniker": "Application\\Features\\Commands\\Brands\\UpdateBrand\\UpdateBrandCommandHandler.cs",
-              "ToolTip": "C:\\Users\\Etimad\\Desktop\\Saat\\Application\\Features\\Commands\\Brands\\UpdateBrand\\UpdateBrandCommandHandler.cs",
-              "RelativeToolTip": "Application\\Features\\Commands\\Brands\\UpdateBrand\\UpdateBrandCommandHandler.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAyAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-23T08:56:48.568Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "UpdateBrandCommandRequest.cs",
-              "DocumentMoniker": "C:\\Users\\Etimad\\Desktop\\Saat\\Application\\Features\\Commands\\Brands\\UpdateBrand\\UpdateBrandCommandRequest.cs",
-              "RelativeDocumentMoniker": "Application\\Features\\Commands\\Brands\\UpdateBrand\\UpdateBrandCommandRequest.cs",
-              "ToolTip": "C:\\Users\\Etimad\\Desktop\\Saat\\Application\\Features\\Commands\\Brands\\UpdateBrand\\UpdateBrandCommandRequest.cs",
-              "RelativeToolTip": "Application\\Features\\Commands\\Brands\\UpdateBrand\\UpdateBrandCommandRequest.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAArAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-23T08:56:41.781Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "GetByIdCategoryQueryRequest.cs",
-              "DocumentMoniker": "C:\\Users\\Etimad\\Desktop\\Saat\\Application\\Features\\Queries\\Categories\\GetByIdCategory\\GetByIdCategoryQueryRequest.cs",
-              "RelativeDocumentMoniker": "Application\\Features\\Queries\\Categories\\GetByIdCategory\\GetByIdCategoryQueryRequest.cs",
-              "ToolTip": "C:\\Users\\Etimad\\Desktop\\Saat\\Application\\Features\\Queries\\Categories\\GetByIdCategory\\GetByIdCategoryQueryRequest.cs",
-              "RelativeToolTip": "Application\\Features\\Queries\\Categories\\GetByIdCategory\\GetByIdCategoryQueryRequest.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-23T08:53:54.968Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "GetByIdCategoryQueryHandler.cs",
-              "DocumentMoniker": "C:\\Users\\Etimad\\Desktop\\Saat\\Application\\Features\\Queries\\Categories\\GetByIdCategory\\GetByIdCategoryQueryHandler.cs",
-              "RelativeDocumentMoniker": "Application\\Features\\Queries\\Categories\\GetByIdCategory\\GetByIdCategoryQueryHandler.cs",
-              "ToolTip": "C:\\Users\\Etimad\\Desktop\\Saat\\Application\\Features\\Queries\\Categories\\GetByIdCategory\\GetByIdCategoryQueryHandler.cs",
-              "RelativeToolTip": "Application\\Features\\Queries\\Categories\\GetByIdCategory\\GetByIdCategoryQueryHandler.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-23T08:53:54.186Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "CreateBrandCommandHandler.cs",
-              "DocumentMoniker": "C:\\Users\\Etimad\\Desktop\\Saat\\Application\\Features\\Commands\\Brands\\CreateBrand\\CreateBrandCommandHandler.cs",
-              "RelativeDocumentMoniker": "Application\\Features\\Commands\\Brands\\CreateBrand\\CreateBrandCommandHandler.cs",
-              "ToolTip": "C:\\Users\\Etimad\\Desktop\\Saat\\Application\\Features\\Commands\\Brands\\CreateBrand\\CreateBrandCommandHandler.cs",
-              "RelativeToolTip": "Application\\Features\\Commands\\Brands\\CreateBrand\\CreateBrandCommandHandler.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAwAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-23T08:48:58.368Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "CreateBrandCommandRequest.cs",
-              "DocumentMoniker": "C:\\Users\\Etimad\\Desktop\\Saat\\Application\\Features\\Commands\\Brands\\CreateBrand\\CreateBrandCommandRequest.cs",
-              "RelativeDocumentMoniker": "Application\\Features\\Commands\\Brands\\CreateBrand\\CreateBrandCommandRequest.cs",
-              "ToolTip": "C:\\Users\\Etimad\\Desktop\\Saat\\Application\\Features\\Commands\\Brands\\CreateBrand\\CreateBrandCommandRequest.cs",
-              "RelativeToolTip": "Application\\Features\\Commands\\Brands\\CreateBrand\\CreateBrandCommandRequest.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAArAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-23T08:49:00.571Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "RemoveCategoryCommandResponse.cs",
-              "DocumentMoniker": "C:\\Users\\Etimad\\Desktop\\Saat\\Application\\Features\\Commands\\Categories\\RemoveCategory\\RemoveCategoryCommandResponse.cs",
-              "RelativeDocumentMoniker": "Application\\Features\\Commands\\Categories\\RemoveCategory\\RemoveCategoryCommandResponse.cs",
-              "ToolTip": "C:\\Users\\Etimad\\Desktop\\Saat\\Application\\Features\\Commands\\Categories\\RemoveCategory\\RemoveCategoryCommandResponse.cs",
-              "RelativeToolTip": "Application\\Features\\Commands\\Categories\\RemoveCategory\\RemoveCategoryCommandResponse.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-23T08:50:39.397Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "RemoveCategoryCommandRequest.cs",
-              "DocumentMoniker": "C:\\Users\\Etimad\\Desktop\\Saat\\Application\\Features\\Commands\\Categories\\RemoveCategory\\RemoveCategoryCommandRequest.cs",
-              "RelativeDocumentMoniker": "Application\\Features\\Commands\\Categories\\RemoveCategory\\RemoveCategoryCommandRequest.cs",
-              "ToolTip": "C:\\Users\\Etimad\\Desktop\\Saat\\Application\\Features\\Commands\\Categories\\RemoveCategory\\RemoveCategoryCommandRequest.cs",
-              "RelativeToolTip": "Application\\Features\\Commands\\Categories\\RemoveCategory\\RemoveCategoryCommandRequest.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-23T08:50:15.292Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "RemoveCategoryCommandHandler.cs",
-              "DocumentMoniker": "C:\\Users\\Etimad\\Desktop\\Saat\\Application\\Features\\Commands\\Categories\\RemoveCategory\\RemoveCategoryCommandHandler.cs",
-              "RelativeDocumentMoniker": "Application\\Features\\Commands\\Categories\\RemoveCategory\\RemoveCategoryCommandHandler.cs",
-              "ToolTip": "C:\\Users\\Etimad\\Desktop\\Saat\\Application\\Features\\Commands\\Categories\\RemoveCategory\\RemoveCategoryCommandHandler.cs",
-              "RelativeToolTip": "Application\\Features\\Commands\\Categories\\RemoveCategory\\RemoveCategoryCommandHandler.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAABjAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-23T08:50:12.852Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "CreateCategoryCommandResponse.cs",
-              "DocumentMoniker": "C:\\Users\\Etimad\\Desktop\\Saat\\Application\\Features\\Commands\\Categories\\CreateCategory\\CreateCategoryCommandResponse.cs",
-              "RelativeDocumentMoniker": "Application\\Features\\Commands\\Categories\\CreateCategory\\CreateCategoryCommandResponse.cs",
-              "ToolTip": "C:\\Users\\Etimad\\Desktop\\Saat\\Application\\Features\\Commands\\Categories\\CreateCategory\\CreateCategoryCommandResponse.cs",
-              "RelativeToolTip": "Application\\Features\\Commands\\Categories\\CreateCategory\\CreateCategoryCommandResponse.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-23T08:50:07.281Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 27,
-              "Title": "CreateBrandCommandResponse.cs",
-              "DocumentMoniker": "C:\\Users\\Etimad\\Desktop\\Saat\\Application\\Features\\Commands\\Brands\\CreateBrand\\CreateBrandCommandResponse.cs",
-              "RelativeDocumentMoniker": "Application\\Features\\Commands\\Brands\\CreateBrand\\CreateBrandCommandResponse.cs",
-              "ToolTip": "C:\\Users\\Etimad\\Desktop\\Saat\\Application\\Features\\Commands\\Brands\\CreateBrand\\CreateBrandCommandResponse.cs",
-              "RelativeToolTip": "Application\\Features\\Commands\\Brands\\CreateBrand\\CreateBrandCommandResponse.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-23T08:49:01.836Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 28,
-              "Title": "dbo.Categories [Data]",
-              "DocumentMoniker": "ViewDataWindow_MSSQL__/DESKTOP_KD7J5GA/Saat/True/SqlTable/dbo.Categories.sql",
-              "ToolTip": "dbo.Categories [Data]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2025-05-23T08:48:22.603Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 29,
-              "Title": "dbo.Products [Data]",
-              "DocumentMoniker": "ViewDataWindow_MSSQL__/DESKTOP_KD7J5GA/Saat/True/SqlTable/dbo.Products.sql",
-              "ToolTip": "dbo.Products [Data]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2025-05-23T08:48:12.353Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 30,
-              "Title": "dbo.Brands [Data]",
-              "DocumentMoniker": "ViewDataWindow_MSSQL__/DESKTOP_KD7J5GA/Saat/True/SqlTable/dbo.Brands.sql",
-              "ToolTip": "dbo.Brands [Data]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2025-05-23T08:47:49.375Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-26T09:41:14.985Z"
             }
           ]
         }

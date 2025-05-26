@@ -30,7 +30,7 @@ namespace Application.Features.Queries.Products.GetAllProduct
                     BrandId = p.BrandId,
                     CategoryId = p.CategoryId,
                     Description = p.Description,
-                    DiscountPrice = p.OldPrice,
+                    OldPrice = p.OldPrice,
                     GenderId = p.GenderId,
                     Id = p.Id,
                     Name = p.Name,

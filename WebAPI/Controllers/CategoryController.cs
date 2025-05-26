@@ -50,7 +50,7 @@ namespace WebAPI.Controllers
         }
 
         [HttpDelete("{Id}")]
-        public async Task<IActionResult> RemoveCategory(RemoveCategoryCommandRequest request)
+        public async Task<IActionResult> RemoveCategory([FromRoute] RemoveCategoryCommandRequest request)
         {
             var response = await _mediator.Send(request);
             return Ok(response);

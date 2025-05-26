@@ -33,7 +33,7 @@ namespace WebAPI.Controllers
         }
 
         [HttpDelete("{Id}")]
-        public async Task<IActionResult> RemoveColor(RemoveColorCommandRequest request)
+        public async Task<IActionResult> RemoveColor([FromRoute] RemoveColorCommandRequest request)
         {
             var response = await _mediator.Send(request);
             return Ok(response);

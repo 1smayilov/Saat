@@ -20,6 +20,6 @@ namespace Application.DTOs.Product
         public int Stock { get; set; }
         public string GenderName { get; set; }
         public string CategoryName { get; set; }
-        public string BrendName { get; set; }
+        public string BrandName { get; set; }
     }
 }

@@ -49,7 +49,7 @@ namespace WebAPI.Controllers
         }
 
         [HttpDelete("{Id}")]
-        public async Task<IActionResult> RemoveGender(RemoveGenderCommandRequest request)
+        public async Task<IActionResult> RemoveGender([FromRoute] RemoveGenderCommandRequest request)
         {
             var response = await _mediator.Send(request);
             return Ok(response);

@@ -2,6 +2,7 @@
 using Application.Features.Commands.Brands.RemoveBrand;
 using Application.Features.Commands.Brands.UpdateBrand;
 using Application.Features.Queries.Brands.GetAllBrand;
+using Application.Features.Queries.Brands.GetBrandsByCategoryName;
 using Application.Features.Queries.Brands.GetByIdBrand;
 using MediatR;
 using Microsoft.AspNetCore.Http;
@@ -23,6 +24,13 @@ namespace WebAPI.Controllers
 
         [HttpGet]
         public async Task<IActionResult> GetAllBrands([FromQuery] GetAllBrandQueryRequest request)
+        {
+            var response = await _mediator.Send(request);
+            return Ok(response);
+        }
+
+        [HttpGet("GetBrandsByCategoryName")]
+        public async Task<IActionResult> GetBrandsByCategoryName([FromQuery] GetBrandsByCategoryNameQueryRequest request)
         {
             var response = await _mediator.Send(request);
             return Ok(response);
@@ -50,7 +58,7 @@ namespace WebAPI.Controllers
         }
 
         [HttpDelete("{Id}")]
-        public async Task<IActionResult> RemoveBrand(RemoveBrandCommandRequest request)
+        public async Task<IActionResult> RemoveBrand([FromRoute] RemoveBrandCommandRequest request)
         {
             var response = await _mediator.Send(request);
             return Ok(response);

@@ -72,14 +72,25 @@
     "Order": 0,
     "Parameters": [
       {
-        "Name": "request",
-        "Type": "Application.Features.Commands.Brands.RemoveBrand.RemoveBrandCommandRequest",
-        "IsRequired": true
-      },
-      {
         "Name": "Id",
-        "Type": "",
+        "Type": "System.Int32",
         "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WebAPI.Controllers.BrandController",
+    "Method": "GetBrandsByCategoryName",
+    "RelativePath": "api/Brand/GetBrandsByCategoryName",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "categoryName",
+        "Type": "System.String",
+        "IsRequired": false
       }
     ],
     "ReturnTypes": []
@@ -157,13 +168,8 @@
     "Order": 0,
     "Parameters": [
       {
-        "Name": "request",
-        "Type": "Application.Features.Commands.Categories.RemoveCategory.RemoveCategoryCommandRequest",
-        "IsRequired": true
-      },
-      {
         "Name": "Id",
-        "Type": "",
+        "Type": "System.Int32",
         "IsRequired": true
       }
     ],
@@ -210,13 +216,8 @@
     "Order": 0,
     "Parameters": [
       {
-        "Name": "request",
-        "Type": "Application.Features.Commands.Colors.RemoveColor.RemoveColorCommandRequest",
-        "IsRequired": true
-      },
-      {
         "Name": "Id",
-        "Type": "",
+        "Type": "System.Int32",
         "IsRequired": true
       }
     ],
@@ -295,13 +296,8 @@
     "Order": 0,
     "Parameters": [
       {
-        "Name": "request",
-        "Type": "Application.Features.Commands.Genders.RemoveGender.RemoveGenderCommandRequest",
-        "IsRequired": true
-      },
-      {
         "Name": "Id",
-        "Type": "",
+        "Type": "System.Int32",
         "IsRequired": true
       }
     ],
@@ -385,14 +381,30 @@
     "Order": 0,
     "Parameters": [
       {
-        "Name": "request",
-        "Type": "Application.Features.Commands.Products.RemoveProduct.RemoveProductCommandRequest",
+        "Name": "Id",
+        "Type": "System.Int32",
         "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WebAPI.Controllers.ProductController",
+    "Method": "GetAllNewProducts",
+    "RelativePath": "api/Product/GetAllNewProducts",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Page",
+        "Type": "System.Int32",
+        "IsRequired": false
       },
       {
-        "Name": "Id",
-        "Type": "",
-        "IsRequired": true
+        "Name": "Size",
+        "Type": "System.Int32",
+        "IsRequired": false
       }
     ],
     "ReturnTypes": []
@@ -401,6 +413,48 @@
     "ContainingType": "WebAPI.Controllers.ProductController",
     "Method": "GetAllProductsWith",
     "RelativePath": "api/Product/GetAllProductsWith",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Page",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "Size",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WebAPI.Controllers.ProductController",
+    "Method": "GetBestSellerProducts",
+    "RelativePath": "api/Product/GetBestSellerProducts",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Page",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "Size",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WebAPI.Controllers.ProductController",
+    "Method": "GetDiscountedProducts",
+    "RelativePath": "api/Product/GetDiscountedProducts",
     "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,
@@ -474,13 +528,8 @@
     "Order": 0,
     "Parameters": [
       {
-        "Name": "request",
-        "Type": "Application.Features.Commands.ProductImages.RemoveProductImage.RemoveProductImageCommandRequest",
-        "IsRequired": true
-      },
-      {
         "Name": "Id",
-        "Type": "",
+        "Type": "System.Int32",
         "IsRequired": true
       }
     ],

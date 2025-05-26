@@ -1,9 +1,12 @@
 ﻿using Application.Features.Commands.Products.CreateProduct;
 using Application.Features.Commands.Products.RemoveProduct;
 using Application.Features.Commands.Products.UpdateProduct;
+using Application.Features.Queries.Products.GetAllNewProducts;
 using Application.Features.Queries.Products.GetAllProduct;
 using Application.Features.Queries.Products.GetAllProductWithAll;
+using Application.Features.Queries.Products.GetBestSellerProducts;
 using Application.Features.Queries.Products.GetByIdProduct;
+using Application.Features.Queries.Products.GetDiscountedProducts;
 using Application.Services;
 using MediatR;
 using Microsoft.AspNetCore.Mvc;
@@ -36,6 +39,28 @@ namespace WebAPI.Controllers
             return Ok(response);
         }
 
+        [HttpGet("GetBestSellerProducts")]
+        public async Task<IActionResult> GetBestSellerProducts([FromQuery] GetBestSellerProductsQueryRequest request)
+        {
+            var response = await _mediator.Send(request);
+            return Ok(response);
+        }
+
+        [HttpGet("GetDiscountedProducts")]
+        public async Task<IActionResult> GetDiscountedProducts([FromQuery] GetDiscountedProductsQueryRequest request)
+        {
+            var response = await _mediator.Send(request);
+            return Ok(response);
+        }
+
+        [HttpGet("GetAllNewProducts")]
+        public async Task<IActionResult> GetAllNewProducts([FromQuery] GetAllNewProductsQueryRequest request)
+        {
+            var response = await _mediator.Send(request);
+            return Ok(response);
+        }
+
+
         [HttpGet("{Id}")]
         public async Task<IActionResult> GetByIdProduct([FromRoute] GetByIdProductQueryRequest request)
         {
@@ -58,7 +83,7 @@ namespace WebAPI.Controllers
         }
 
         [HttpDelete("{Id}")]
-        public async Task<IActionResult> RemoveProduct(RemoveProductCommandRequest request)
+        public async Task<IActionResult> RemoveProduct([FromRoute] RemoveProductCommandRequest request)
         {
             var response = await _mediator.Send(request);
             return Ok(response);
