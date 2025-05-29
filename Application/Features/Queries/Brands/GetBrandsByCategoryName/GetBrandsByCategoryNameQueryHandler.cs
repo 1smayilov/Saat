@@ -22,7 +22,7 @@ namespace Application.Features.Queries.Brands.GetBrandsByCategoryName
         public async Task<GetBrandsByCategoryNameQueryResponse> Handle(GetBrandsByCategoryNameQueryRequest request, CancellationToken cancellationToken)
         {
             List<GetBrandsByCategoryNameDto> brands = await _brandReadRepository.GetAll(false)
-                                                      .Where(b => b.Category.Name == request.categoryName)
+                                                      .Where(b => b.Category.Name == request.CategoryName)
                                                       .Select(b => new GetBrandsByCategoryNameDto()
                                                       {
                                                           Id = b.Id,

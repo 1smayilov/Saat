@@ -29,7 +29,8 @@ namespace Application.Features.Queries.Products.GetByIdProduct
                 Description = product.Description,
                 GenderId = product.GenderId,
                 Id = product.Id,
-                DiscountPrice = product.OldPrice,
+                Stock = product.Stock,
+                OldPrice = product.OldPrice,
                 Name = product.Name,
                 Price = product.Price
             };

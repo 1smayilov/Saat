@@ -2,6 +2,7 @@
 using Application.Features.Commands.Brands.RemoveBrand;
 using Application.Features.Commands.Brands.UpdateBrand;
 using Application.Features.Queries.Brands.GetAllBrand;
+using Application.Features.Queries.Brands.GetBrandsByCategory;
 using Application.Features.Queries.Brands.GetBrandsByCategoryName;
 using Application.Features.Queries.Brands.GetByIdBrand;
 using MediatR;
@@ -31,6 +32,13 @@ namespace WebAPI.Controllers
 
         [HttpGet("GetBrandsByCategoryName")]
         public async Task<IActionResult> GetBrandsByCategoryName([FromQuery] GetBrandsByCategoryNameQueryRequest request)
+        {
+            var response = await _mediator.Send(request);
+            return Ok(response);
+        }
+
+        [HttpGet("GetBrandsByCategory")]
+        public async Task<IActionResult> GetBrandsByCategory([FromQuery] GetBrandsByCategoryQueryRequest request)
         {
             var response = await _mediator.Send(request);
             return Ok(response);

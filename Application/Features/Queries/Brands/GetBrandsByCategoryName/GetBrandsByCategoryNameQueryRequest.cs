@@ -9,6 +9,6 @@ namespace Application.Features.Queries.Brands.GetBrandsByCategoryName
 {
     public class GetBrandsByCategoryNameQueryRequest : IRequest<GetBrandsByCategoryNameQueryResponse>
     {
-        public string categoryName { get; set; }
+        public string CategoryName { get; set; }
     }
 }

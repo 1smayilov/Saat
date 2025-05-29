@@ -81,6 +81,22 @@
   },
   {
     "ContainingType": "WebAPI.Controllers.BrandController",
+    "Method": "GetBrandsByCategory",
+    "RelativePath": "api/Brand/GetBrandsByCategory",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "Application.Features.Queries.Brands.GetBrandsByCategory.GetBrandsByCategoryQueryRequest",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WebAPI.Controllers.BrandController",
     "Method": "GetBrandsByCategoryName",
     "RelativePath": "api/Brand/GetBrandsByCategoryName",
     "HttpMethod": "GET",
@@ -88,7 +104,7 @@
     "Order": 0,
     "Parameters": [
       {
-        "Name": "categoryName",
+        "Name": "CategoryName",
         "Type": "System.String",
         "IsRequired": false
       }
