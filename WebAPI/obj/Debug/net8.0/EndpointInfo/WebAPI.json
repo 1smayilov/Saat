@@ -707,6 +707,27 @@
         }
       }
     },
+    "/api/Product/GetProductsByBrandName": {
+      "get": {
+        "tags": [
+          "Product"
+        ],
+        "parameters": [
+          {
+            "name": "BrandName",
+            "in": "query",
+            "schema": {
+              "type": "string"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
     "/api/Product/{Id}": {
       "get": {
         "tags": [

@@ -7,6 +7,7 @@ using Application.Features.Queries.Products.GetAllProductWithAll;
 using Application.Features.Queries.Products.GetBestSellerProducts;
 using Application.Features.Queries.Products.GetByIdProduct;
 using Application.Features.Queries.Products.GetDiscountedProducts;
+using Application.Features.Queries.Products.GetProductsByBrandName;
 using Application.Services;
 using MediatR;
 using Microsoft.AspNetCore.Mvc;
@@ -55,6 +56,13 @@ namespace WebAPI.Controllers
 
         [HttpGet("GetAllNewProducts")]
         public async Task<IActionResult> GetAllNewProducts([FromQuery] GetAllNewProductsQueryRequest request)
+        {
+            var response = await _mediator.Send(request);
+            return Ok(response);
+        }
+
+        [HttpGet("GetProductsByBrandName")]
+        public async Task<IActionResult> GetProductsByBrandName([FromQuery] GetProductsByBrandNameQueryRequest request)
         {
             var response = await _mediator.Send(request);
             return Ok(response);

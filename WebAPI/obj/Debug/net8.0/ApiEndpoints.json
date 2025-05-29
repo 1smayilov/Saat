@@ -489,6 +489,22 @@
     "ReturnTypes": []
   },
   {
+    "ContainingType": "WebAPI.Controllers.ProductController",
+    "Method": "GetProductsByBrandName",
+    "RelativePath": "api/Product/GetProductsByBrandName",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "BrandName",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "WebAPI.Controllers.ProductImageController",
     "Method": "Upload",
     "RelativePath": "api/ProductImage",
