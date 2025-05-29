@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "faI+6xgpmB3+Ub0R0Zf+vFBojwCENqPu0pOU4vdORiQ=",
+  "Hash": "Haim005E4ryqAc/Pr58vimPK08fpoJtfY4QOwYARnNA=",
   "Source": "WebAPI",
   "BasePath": "_content/WebAPI",
   "Mode": "Default",
@@ -17,12 +17,12 @@
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\Etimad\\Desktop\\Saat\\WebAPI\\wwwroot\\images\\products\\9ac73c42-7261-48fd-ad38-3071796a8319.jpg",
+      "Identity": "C:\\Users\\Etimad\\Desktop\\Saat\\WebAPI\\wwwroot\\images\\products\\0c69301f-09d1-4abb-9c01-b6546bf89f65.jpg",
       "SourceId": "WebAPI",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Etimad\\Desktop\\Saat\\WebAPI\\wwwroot\\",
       "BasePath": "_content/WebAPI",
-      "RelativePath": "images/products/9ac73c42-7261-48fd-ad38-3071796a8319#[.{fingerprint}]?.jpg",
+      "RelativePath": "images/products/0c69301f-09d1-4abb-9c01-b6546bf89f65#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -35,15 +35,15 @@
       "Integrity": "FIZhr4axq3neXcmpNTdtxpYO+WDjKDcLOsIxUlIx8ZI=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\products\\9ac73c42-7261-48fd-ad38-3071796a8319.jpg"
+      "OriginalItemSpec": "wwwroot\\images\\products\\0c69301f-09d1-4abb-9c01-b6546bf89f65.jpg"
     },
     {
-      "Identity": "C:\\Users\\Etimad\\Desktop\\Saat\\WebAPI\\wwwroot\\images\\products\\be0a5be9-172c-415b-a81a-a16b09f4638f.jpg",
+      "Identity": "C:\\Users\\Etimad\\Desktop\\Saat\\WebAPI\\wwwroot\\images\\products\\eae9bcc2-3333-45e1-80e2-1c8b8c838bcb.jpeg",
       "SourceId": "WebAPI",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Etimad\\Desktop\\Saat\\WebAPI\\wwwroot\\",
       "BasePath": "_content/WebAPI",
-      "RelativePath": "images/products/be0a5be9-172c-415b-a81a-a16b09f4638f#[.{fingerprint}]?.jpg",
+      "RelativePath": "images/products/eae9bcc2-3333-45e1-80e2-1c8b8c838bcb#[.{fingerprint}]?.jpeg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -52,17 +52,38 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "gv8smmfuna",
-      "Integrity": "FIZhr4axq3neXcmpNTdtxpYO+WDjKDcLOsIxUlIx8ZI=",
+      "Fingerprint": "glvgwig50w",
+      "Integrity": "9Ov3f7z+h5hC7cGf06xUu/HsnzmnwRDQRlK8wYTU8Sw=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\products\\be0a5be9-172c-415b-a81a-a16b09f4638f.jpg"
+      "OriginalItemSpec": "wwwroot\\images\\products\\eae9bcc2-3333-45e1-80e2-1c8b8c838bcb.jpeg"
+    },
+    {
+      "Identity": "C:\\Users\\Etimad\\Desktop\\Saat\\WebAPI\\wwwroot\\images\\products\\f9625377-83af-4e98-bd7e-8915e2c4bf69.jpeg",
+      "SourceId": "WebAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Etimad\\Desktop\\Saat\\WebAPI\\wwwroot\\",
+      "BasePath": "_content/WebAPI",
+      "RelativePath": "images/products/f9625377-83af-4e98-bd7e-8915e2c4bf69#[.{fingerprint}]?.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "eeamupla4o",
+      "Integrity": "2m+WOSV+s4DrZ+K5qBqXmljZPZHdw/sraAKgbkS/tGc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\products\\f9625377-83af-4e98-bd7e-8915e2c4bf69.jpeg"
     }
   ],
   "Endpoints": [
     {
-      "Route": "images/products/9ac73c42-7261-48fd-ad38-3071796a8319.gv8smmfuna.jpg",
-      "AssetFile": "C:\\Users\\Etimad\\Desktop\\Saat\\WebAPI\\wwwroot\\images\\products\\9ac73c42-7261-48fd-ad38-3071796a8319.jpg",
+      "Route": "images/products/0c69301f-09d1-4abb-9c01-b6546bf89f65.gv8smmfuna.jpg",
+      "AssetFile": "C:\\Users\\Etimad\\Desktop\\Saat\\WebAPI\\wwwroot\\images\\products\\0c69301f-09d1-4abb-9c01-b6546bf89f65.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -83,7 +104,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 21 May 2025 15:57:36 GMT"
+          "Value": "Thu, 29 May 2025 09:04:42 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -97,7 +118,7 @@
         },
         {
           "Name": "label",
-          "Value": "images/products/9ac73c42-7261-48fd-ad38-3071796a8319.jpg"
+          "Value": "images/products/0c69301f-09d1-4abb-9c01-b6546bf89f65.jpg"
         },
         {
           "Name": "integrity",
@@ -106,8 +127,8 @@
       ]
     },
     {
-      "Route": "images/products/9ac73c42-7261-48fd-ad38-3071796a8319.jpg",
-      "AssetFile": "C:\\Users\\Etimad\\Desktop\\Saat\\WebAPI\\wwwroot\\images\\products\\9ac73c42-7261-48fd-ad38-3071796a8319.jpg",
+      "Route": "images/products/0c69301f-09d1-4abb-9c01-b6546bf89f65.jpg",
+      "AssetFile": "C:\\Users\\Etimad\\Desktop\\Saat\\WebAPI\\wwwroot\\images\\products\\0c69301f-09d1-4abb-9c01-b6546bf89f65.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -128,7 +149,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 21 May 2025 15:57:36 GMT"
+          "Value": "Thu, 29 May 2025 09:04:42 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -143,8 +164,8 @@
       ]
     },
     {
-      "Route": "images/products/be0a5be9-172c-415b-a81a-a16b09f4638f.gv8smmfuna.jpg",
-      "AssetFile": "C:\\Users\\Etimad\\Desktop\\Saat\\WebAPI\\wwwroot\\images\\products\\be0a5be9-172c-415b-a81a-a16b09f4638f.jpg",
+      "Route": "images/products/eae9bcc2-3333-45e1-80e2-1c8b8c838bcb.glvgwig50w.jpeg",
+      "AssetFile": "C:\\Users\\Etimad\\Desktop\\Saat\\WebAPI\\wwwroot\\images\\products\\eae9bcc2-3333-45e1-80e2-1c8b8c838bcb.jpeg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -153,7 +174,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "95552"
+          "Value": "346434"
         },
         {
           "Name": "Content-Type",
@@ -161,11 +182,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"FIZhr4axq3neXcmpNTdtxpYO+WDjKDcLOsIxUlIx8ZI=\""
+          "Value": "\"9Ov3f7z+h5hC7cGf06xUu/HsnzmnwRDQRlK8wYTU8Sw=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 21 May 2025 15:57:36 GMT"
+          "Value": "Thu, 29 May 2025 09:04:42 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -175,21 +196,21 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "gv8smmfuna"
+          "Value": "glvgwig50w"
         },
         {
           "Name": "label",
-          "Value": "images/products/be0a5be9-172c-415b-a81a-a16b09f4638f.jpg"
+          "Value": "images/products/eae9bcc2-3333-45e1-80e2-1c8b8c838bcb.jpeg"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-FIZhr4axq3neXcmpNTdtxpYO+WDjKDcLOsIxUlIx8ZI="
+          "Value": "sha256-9Ov3f7z+h5hC7cGf06xUu/HsnzmnwRDQRlK8wYTU8Sw="
         }
       ]
     },
     {
-      "Route": "images/products/be0a5be9-172c-415b-a81a-a16b09f4638f.jpg",
-      "AssetFile": "C:\\Users\\Etimad\\Desktop\\Saat\\WebAPI\\wwwroot\\images\\products\\be0a5be9-172c-415b-a81a-a16b09f4638f.jpg",
+      "Route": "images/products/eae9bcc2-3333-45e1-80e2-1c8b8c838bcb.jpeg",
+      "AssetFile": "C:\\Users\\Etimad\\Desktop\\Saat\\WebAPI\\wwwroot\\images\\products\\eae9bcc2-3333-45e1-80e2-1c8b8c838bcb.jpeg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -198,7 +219,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "95552"
+          "Value": "346434"
         },
         {
           "Name": "Content-Type",
@@ -206,11 +227,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"FIZhr4axq3neXcmpNTdtxpYO+WDjKDcLOsIxUlIx8ZI=\""
+          "Value": "\"9Ov3f7z+h5hC7cGf06xUu/HsnzmnwRDQRlK8wYTU8Sw=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 21 May 2025 15:57:36 GMT"
+          "Value": "Thu, 29 May 2025 09:04:42 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -220,7 +241,89 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-FIZhr4axq3neXcmpNTdtxpYO+WDjKDcLOsIxUlIx8ZI="
+          "Value": "sha256-9Ov3f7z+h5hC7cGf06xUu/HsnzmnwRDQRlK8wYTU8Sw="
+        }
+      ]
+    },
+    {
+      "Route": "images/products/f9625377-83af-4e98-bd7e-8915e2c4bf69.eeamupla4o.jpeg",
+      "AssetFile": "C:\\Users\\Etimad\\Desktop\\Saat\\WebAPI\\wwwroot\\images\\products\\f9625377-83af-4e98-bd7e-8915e2c4bf69.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "241307"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"2m+WOSV+s4DrZ+K5qBqXmljZPZHdw/sraAKgbkS/tGc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 29 May 2025 09:04:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "eeamupla4o"
+        },
+        {
+          "Name": "label",
+          "Value": "images/products/f9625377-83af-4e98-bd7e-8915e2c4bf69.jpeg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-2m+WOSV+s4DrZ+K5qBqXmljZPZHdw/sraAKgbkS/tGc="
+        }
+      ]
+    },
+    {
+      "Route": "images/products/f9625377-83af-4e98-bd7e-8915e2c4bf69.jpeg",
+      "AssetFile": "C:\\Users\\Etimad\\Desktop\\Saat\\WebAPI\\wwwroot\\images\\products\\f9625377-83af-4e98-bd7e-8915e2c4bf69.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "241307"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"2m+WOSV+s4DrZ+K5qBqXmljZPZHdw/sraAKgbkS/tGc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 29 May 2025 09:04:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-2m+WOSV+s4DrZ+K5qBqXmljZPZHdw/sraAKgbkS/tGc="
         }
       ]
     }

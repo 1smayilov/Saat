@@ -1,2 +1,3 @@
-wwwroot\images\products\9ac73c42-7261-48fd-ad38-3071796a8319.jpg
-wwwroot\images\products\be0a5be9-172c-415b-a81a-a16b09f4638f.jpg
+wwwroot\images\products\0c69301f-09d1-4abb-9c01-b6546bf89f65.jpg
+wwwroot\images\products\eae9bcc2-3333-45e1-80e2-1c8b8c838bcb.jpeg
+wwwroot\images\products\f9625377-83af-4e98-bd7e-8915e2c4bf69.jpeg

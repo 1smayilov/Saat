@@ -21,5 +21,6 @@ namespace Application.DTOs.Product
         public string GenderName { get; set; }
         public string CategoryName { get; set; }
         public string BrandName { get; set; }
+        public List<string> Images { get; set; }
     }
 }
