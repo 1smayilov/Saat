@@ -16,7 +16,10 @@ namespace Persistence.Services
             if (!Directory.Exists(root))
                 Directory.CreateDirectory(root);
 
-            var fileName = $"{Guid.NewGuid()}{Path.GetExtension(formFile.FileName)}";
+            string nameWithoutExtension = Path.GetFileNameWithoutExtension(formFile.FileName);
+            string extension = Path.GetExtension(formFile.FileName);
+
+            var fileName = $"{nameWithoutExtension}-{Guid.NewGuid().ToString().Substring(0, 1)}{extension}";
             var filePath = Path.Combine(root, fileName);
 
             using (var stream = new FileStream(filePath, FileMode.Create))

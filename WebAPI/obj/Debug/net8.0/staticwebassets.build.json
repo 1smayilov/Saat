@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "Haim005E4ryqAc/Pr58vimPK08fpoJtfY4QOwYARnNA=",
+  "Hash": "t1tQ2RlVXqfpCcqhOilxJN+2fNPgZLfp2kcnfR2Ukxs=",
   "Source": "WebAPI",
   "BasePath": "_content/WebAPI",
   "Mode": "Default",
@@ -17,12 +17,12 @@
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\Etimad\\Desktop\\Saat\\WebAPI\\wwwroot\\images\\products\\0c69301f-09d1-4abb-9c01-b6546bf89f65.jpg",
+      "Identity": "C:\\Users\\Etimad\\Desktop\\Saat\\WebAPI\\wwwroot\\images\\products\\Elvin-4.jpg",
       "SourceId": "WebAPI",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Etimad\\Desktop\\Saat\\WebAPI\\wwwroot\\",
       "BasePath": "_content/WebAPI",
-      "RelativePath": "images/products/0c69301f-09d1-4abb-9c01-b6546bf89f65#[.{fingerprint}]?.jpg",
+      "RelativePath": "images/products/Elvin-4#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -35,15 +35,15 @@
       "Integrity": "FIZhr4axq3neXcmpNTdtxpYO+WDjKDcLOsIxUlIx8ZI=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\products\\0c69301f-09d1-4abb-9c01-b6546bf89f65.jpg"
+      "OriginalItemSpec": "wwwroot\\images\\products\\Elvin-4.jpg"
     },
     {
-      "Identity": "C:\\Users\\Etimad\\Desktop\\Saat\\WebAPI\\wwwroot\\images\\products\\eae9bcc2-3333-45e1-80e2-1c8b8c838bcb.jpeg",
+      "Identity": "C:\\Users\\Etimad\\Desktop\\Saat\\WebAPI\\wwwroot\\images\\products\\Elvin-a.jpg",
       "SourceId": "WebAPI",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Etimad\\Desktop\\Saat\\WebAPI\\wwwroot\\",
       "BasePath": "_content/WebAPI",
-      "RelativePath": "images/products/eae9bcc2-3333-45e1-80e2-1c8b8c838bcb#[.{fingerprint}]?.jpeg",
+      "RelativePath": "images/products/Elvin-a#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -52,38 +52,17 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "glvgwig50w",
-      "Integrity": "9Ov3f7z+h5hC7cGf06xUu/HsnzmnwRDQRlK8wYTU8Sw=",
+      "Fingerprint": "gv8smmfuna",
+      "Integrity": "FIZhr4axq3neXcmpNTdtxpYO+WDjKDcLOsIxUlIx8ZI=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\products\\eae9bcc2-3333-45e1-80e2-1c8b8c838bcb.jpeg"
-    },
-    {
-      "Identity": "C:\\Users\\Etimad\\Desktop\\Saat\\WebAPI\\wwwroot\\images\\products\\f9625377-83af-4e98-bd7e-8915e2c4bf69.jpeg",
-      "SourceId": "WebAPI",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Etimad\\Desktop\\Saat\\WebAPI\\wwwroot\\",
-      "BasePath": "_content/WebAPI",
-      "RelativePath": "images/products/f9625377-83af-4e98-bd7e-8915e2c4bf69#[.{fingerprint}]?.jpeg",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "eeamupla4o",
-      "Integrity": "2m+WOSV+s4DrZ+K5qBqXmljZPZHdw/sraAKgbkS/tGc=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\products\\f9625377-83af-4e98-bd7e-8915e2c4bf69.jpeg"
+      "OriginalItemSpec": "wwwroot\\images\\products\\Elvin-a.jpg"
     }
   ],
   "Endpoints": [
     {
-      "Route": "images/products/0c69301f-09d1-4abb-9c01-b6546bf89f65.gv8smmfuna.jpg",
-      "AssetFile": "C:\\Users\\Etimad\\Desktop\\Saat\\WebAPI\\wwwroot\\images\\products\\0c69301f-09d1-4abb-9c01-b6546bf89f65.jpg",
+      "Route": "images/products/Elvin-4.gv8smmfuna.jpg",
+      "AssetFile": "C:\\Users\\Etimad\\Desktop\\Saat\\WebAPI\\wwwroot\\images\\products\\Elvin-4.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -104,7 +83,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 29 May 2025 09:04:42 GMT"
+          "Value": "Tue, 03 Jun 2025 07:04:11 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -118,7 +97,7 @@
         },
         {
           "Name": "label",
-          "Value": "images/products/0c69301f-09d1-4abb-9c01-b6546bf89f65.jpg"
+          "Value": "images/products/Elvin-4.jpg"
         },
         {
           "Name": "integrity",
@@ -127,8 +106,8 @@
       ]
     },
     {
-      "Route": "images/products/0c69301f-09d1-4abb-9c01-b6546bf89f65.jpg",
-      "AssetFile": "C:\\Users\\Etimad\\Desktop\\Saat\\WebAPI\\wwwroot\\images\\products\\0c69301f-09d1-4abb-9c01-b6546bf89f65.jpg",
+      "Route": "images/products/Elvin-4.jpg",
+      "AssetFile": "C:\\Users\\Etimad\\Desktop\\Saat\\WebAPI\\wwwroot\\images\\products\\Elvin-4.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -149,7 +128,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 29 May 2025 09:04:42 GMT"
+          "Value": "Tue, 03 Jun 2025 07:04:11 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -164,8 +143,8 @@
       ]
     },
     {
-      "Route": "images/products/eae9bcc2-3333-45e1-80e2-1c8b8c838bcb.glvgwig50w.jpeg",
-      "AssetFile": "C:\\Users\\Etimad\\Desktop\\Saat\\WebAPI\\wwwroot\\images\\products\\eae9bcc2-3333-45e1-80e2-1c8b8c838bcb.jpeg",
+      "Route": "images/products/Elvin-a.gv8smmfuna.jpg",
+      "AssetFile": "C:\\Users\\Etimad\\Desktop\\Saat\\WebAPI\\wwwroot\\images\\products\\Elvin-a.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -174,7 +153,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "346434"
+          "Value": "95552"
         },
         {
           "Name": "Content-Type",
@@ -182,11 +161,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"9Ov3f7z+h5hC7cGf06xUu/HsnzmnwRDQRlK8wYTU8Sw=\""
+          "Value": "\"FIZhr4axq3neXcmpNTdtxpYO+WDjKDcLOsIxUlIx8ZI=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 29 May 2025 09:04:42 GMT"
+          "Value": "Tue, 03 Jun 2025 07:03:48 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -196,21 +175,21 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "glvgwig50w"
+          "Value": "gv8smmfuna"
         },
         {
           "Name": "label",
-          "Value": "images/products/eae9bcc2-3333-45e1-80e2-1c8b8c838bcb.jpeg"
+          "Value": "images/products/Elvin-a.jpg"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-9Ov3f7z+h5hC7cGf06xUu/HsnzmnwRDQRlK8wYTU8Sw="
+          "Value": "sha256-FIZhr4axq3neXcmpNTdtxpYO+WDjKDcLOsIxUlIx8ZI="
         }
       ]
     },
     {
-      "Route": "images/products/eae9bcc2-3333-45e1-80e2-1c8b8c838bcb.jpeg",
-      "AssetFile": "C:\\Users\\Etimad\\Desktop\\Saat\\WebAPI\\wwwroot\\images\\products\\eae9bcc2-3333-45e1-80e2-1c8b8c838bcb.jpeg",
+      "Route": "images/products/Elvin-a.jpg",
+      "AssetFile": "C:\\Users\\Etimad\\Desktop\\Saat\\WebAPI\\wwwroot\\images\\products\\Elvin-a.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -219,7 +198,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "346434"
+          "Value": "95552"
         },
         {
           "Name": "Content-Type",
@@ -227,11 +206,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"9Ov3f7z+h5hC7cGf06xUu/HsnzmnwRDQRlK8wYTU8Sw=\""
+          "Value": "\"FIZhr4axq3neXcmpNTdtxpYO+WDjKDcLOsIxUlIx8ZI=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 29 May 2025 09:04:42 GMT"
+          "Value": "Tue, 03 Jun 2025 07:03:48 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -241,89 +220,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-9Ov3f7z+h5hC7cGf06xUu/HsnzmnwRDQRlK8wYTU8Sw="
-        }
-      ]
-    },
-    {
-      "Route": "images/products/f9625377-83af-4e98-bd7e-8915e2c4bf69.eeamupla4o.jpeg",
-      "AssetFile": "C:\\Users\\Etimad\\Desktop\\Saat\\WebAPI\\wwwroot\\images\\products\\f9625377-83af-4e98-bd7e-8915e2c4bf69.jpeg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "241307"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"2m+WOSV+s4DrZ+K5qBqXmljZPZHdw/sraAKgbkS/tGc=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 29 May 2025 09:04:42 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "eeamupla4o"
-        },
-        {
-          "Name": "label",
-          "Value": "images/products/f9625377-83af-4e98-bd7e-8915e2c4bf69.jpeg"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-2m+WOSV+s4DrZ+K5qBqXmljZPZHdw/sraAKgbkS/tGc="
-        }
-      ]
-    },
-    {
-      "Route": "images/products/f9625377-83af-4e98-bd7e-8915e2c4bf69.jpeg",
-      "AssetFile": "C:\\Users\\Etimad\\Desktop\\Saat\\WebAPI\\wwwroot\\images\\products\\f9625377-83af-4e98-bd7e-8915e2c4bf69.jpeg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "241307"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"2m+WOSV+s4DrZ+K5qBqXmljZPZHdw/sraAKgbkS/tGc=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 29 May 2025 09:04:42 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=3600, must-revalidate"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-2m+WOSV+s4DrZ+K5qBqXmljZPZHdw/sraAKgbkS/tGc="
+          "Value": "sha256-FIZhr4axq3neXcmpNTdtxpYO+WDjKDcLOsIxUlIx8ZI="
         }
       ]
     }

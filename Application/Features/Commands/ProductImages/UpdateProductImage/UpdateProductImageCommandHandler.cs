@@ -40,6 +40,7 @@ namespace Application.Features.Commands.ProductImages.UpdateProductImage
 
                 productImage.ImagePath = Path.Combine("images", "products", newFileName).Replace("\\", "/");
             }
+            else throw new Exception("Yeni şəkil faylı göndərilməyib.");
 
             productImage.ProductId = request.ProductId;
 

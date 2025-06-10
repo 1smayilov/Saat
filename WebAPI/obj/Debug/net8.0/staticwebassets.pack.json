@@ -1,16 +1,12 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\Etimad\\Desktop\\Saat\\WebAPI\\wwwroot\\images\\products\\0c69301f-09d1-4abb-9c01-b6546bf89f65.jpg",
-      "PackagePath": "staticwebassets\\images\\products\\0c69301f-09d1-4abb-9c01-b6546bf89f65.jpg"
+      "Id": "C:\\Users\\Etimad\\Desktop\\Saat\\WebAPI\\wwwroot\\images\\products\\Elvin-4.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\Elvin-4.jpg"
     },
     {
-      "Id": "C:\\Users\\Etimad\\Desktop\\Saat\\WebAPI\\wwwroot\\images\\products\\eae9bcc2-3333-45e1-80e2-1c8b8c838bcb.jpeg",
-      "PackagePath": "staticwebassets\\images\\products\\eae9bcc2-3333-45e1-80e2-1c8b8c838bcb.jpeg"
-    },
-    {
-      "Id": "C:\\Users\\Etimad\\Desktop\\Saat\\WebAPI\\wwwroot\\images\\products\\f9625377-83af-4e98-bd7e-8915e2c4bf69.jpeg",
-      "PackagePath": "staticwebassets\\images\\products\\f9625377-83af-4e98-bd7e-8915e2c4bf69.jpeg"
+      "Id": "C:\\Users\\Etimad\\Desktop\\Saat\\WebAPI\\wwwroot\\images\\products\\Elvin-a.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\Elvin-a.jpg"
     },
     {
       "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.WebAPI.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
